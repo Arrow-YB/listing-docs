@@ -1,15 +1,13 @@
 ---
 name: List your protocol on YieldBay
 about: Provide protocols a template to get their farms listed on list.yieldbay.io
-title: "[Protocol listing template]"
-labels: ''
+title: "[Name of protocol]"
+labels: protocol integration
 assignees: Arrow-YB
 
 ---
 
 # Integration template for protocols with YieldBay
-
-## Enter the Name of the protocol
 
 ## Enter the Number of farms on the protocol
 
