@@ -10,9 +10,9 @@ assignees: Arrow-YB
 ## Number of farms available on protocol : [Number of farms on the protocol]
 
 ## Top farms on the platform:
-1. [Farm 1]: (link)
-2. [Farm 2]: (link)
-3. [Farm 3]: (link)
+1. [Farm 1](link1)
+2. [Farm 2](link2)
+3. [Farm 3](link3)
 
 ## Enter current 
 
