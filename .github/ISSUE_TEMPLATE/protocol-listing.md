@@ -1,7 +1,7 @@
 ---
 name: Protocol Listing
 about: Get your protocol and farms listed on list.yieldbay.io
-title: "[Name of protocol]"
+title: "[Name of protocol] listing request"
 labels: protocol integration
 assignees: Arrow-YB
 
@@ -16,6 +16,5 @@ Number of farms available on protocol: **[Number of farms on the protocol]**
 2. [Farm 2](link2)
 3. [Farm 3](link3)
 
-## Enter current 
-
-## Enter Detail 3
+## Data fetching
+[Describe how to fetch TVL, APRs (trading & reward) and rewards per day for the farms as descriptively as possible. Links and documentations are appreciated.]
