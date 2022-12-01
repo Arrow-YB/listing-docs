@@ -22,6 +22,8 @@ Number of farms available on protocol: **[Number of farms on the protocol]**
 ## Contact information
 [Provide twitter/mail/discord or any other contact details of the person who will be representing your protocol with us]
 
+---
+
 *[Optional Information - helps us easily integrate your protocol]*
 
 ### API/SDK for fetching real-time farms/rewards/token data
