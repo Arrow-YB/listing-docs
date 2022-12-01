@@ -24,9 +24,9 @@ Number of farms available on protocol: **[Number of farms on the protocol]**
 
 *[Optional Information - helps us easily integrate your protocol]*
 
-##### API/SDK for fetching real-time farms/rewards/token data
-##### Subgraph/Subsquid/Subql link
-##### Frontend Codebase link
-##### Farm type: 
+#### API/SDK for fetching real-time farms/rewards/token data
+#### Subgraph/Subsquid/Subql link
+#### Frontend Codebase link
+#### Farm type: 
 1. Pallet: pallet name(s) and methods to fetch farm data.
 2. Solidity Contract: Chain explorer link and addresses.
